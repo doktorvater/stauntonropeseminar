@@ -1,5 +1,5 @@
 ---
-title: SCHEDULE PAGE
+title: SCHEDULE
 layout: template
 filename: schedule.md
 --- 
