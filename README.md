@@ -1,1 +1,1 @@
-## Staunton Rope Seminar
+## Welcome!
