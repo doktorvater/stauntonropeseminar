@@ -2,5 +2,5 @@ remote_theme: pages-themes/midnight@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 title: Staunton Rope Seminar
-tagline: A place to learn.
-description: shibari community
+tagline: Shibari community in Virginia
+description: A place to learn.
