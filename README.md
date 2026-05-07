@@ -1,2 +1,3 @@
-## We are a group of people learning together about rope.
+### Studying shibari in Staunton, Virginia
+
 
