@@ -1,5 +1,3 @@
-{% include_relative README.md %}
-
 ## Welcome!
 
 We try to get together at a restaurant once a week and have a rope jam once a month.
