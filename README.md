@@ -1,3 +1,3 @@
-### Studying shibari in Staunton, Virginia
+# Studying shibari in Staunton, Virginia
 
 
