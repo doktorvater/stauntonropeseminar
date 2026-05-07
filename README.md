@@ -1,2 +1,2 @@
 ## Welcome!
-Go to [about page](about.md)
+Go to the [about page](about.md)
