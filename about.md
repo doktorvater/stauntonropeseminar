@@ -1,6 +1,6 @@
 ---
 title: ABOUT PAGE
-layout: template
+layout: default
 filename: about.md
 --- 
 Staunton, Virgina
