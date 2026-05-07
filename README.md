@@ -1,2 +1,2 @@
-# We Are Studying Shibari in Staunton, Virginia  
-  
+# The Study of Shibari in Staunton, Virginia  
+#  
