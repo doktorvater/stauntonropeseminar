@@ -1,6 +1,6 @@
 ---
 title: SCHEDULE
-layout: template
+layout: default
 filename: schedule.md
 --- 
 May 2026
